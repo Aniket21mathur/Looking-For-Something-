@@ -27,7 +27,7 @@ Let's break down the different parts.
 Header
 The header typically consists of two parts: the type of the token, which is JWT, and the signing algorithm being used, such as HMAC SHA256 or RSA.
 
-For example:
+Follow the  example:
 
 {
   "alg": "HS256",
