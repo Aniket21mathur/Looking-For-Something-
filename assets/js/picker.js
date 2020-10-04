@@ -5,7 +5,7 @@
 window.onload = function() {
 	// Handle Texture Picker
 	const $picker = document.querySelector('#texture-picker');
-	const $hidePicker = document.querySelector('#hidePicker');
+	const $hide_Picker = document.querySelector('#hidePicker');
 	const $header = document.querySelector('header');
 	
 	$picker.onclick = function(e) {
