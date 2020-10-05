@@ -1,10 +1,10 @@
 @import 'ext/solarized-light';
 
 div.highlighter-rouge {
-	width: 100vw;
+	width: 90vw;
 	position: relative;
 	right: 150px;
-	margin: 40px 0;
+	margin: 30px 0;
 }
 
 .highlight {
@@ -17,7 +17,7 @@ div.highlight {
 
 pre.highlight, code {
 	font-family: 'Consolas', Menlo, monospace;
-	line-height: 1.4em;
-	tab-size: 4;
+	line-height: 1.3em;
+	tab-size: 3;
 	background-color: #ff6347;
 }
