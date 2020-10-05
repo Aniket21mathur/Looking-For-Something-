@@ -5,9 +5,9 @@
 
 $linkColor: #999;
 $mobileW: 768px;
-$smallMobileW: 480px;
+$smallMobileW: 470px;
 $bigScreenW: 1600px;
-$leftWidth: 220px;
+$leftWidth: 210px;
 
 $gray: #999;
 $lightGray: #eee;
@@ -45,7 +45,7 @@ h1 {
 
 h2 {
 	font-weight: bold;
-	@include fluidType(28px, 32px);
+	@include fluidType(26px, 32px);
 }
 
 h4 {
@@ -54,7 +54,7 @@ h4 {
 }
 
 figcaption {
-	font-size: 10pt;
+	font-size: 9pt;
 	line-height: 1.5em;
 	margin-top: -1em;
 }
@@ -219,7 +219,7 @@ header {
 
 .post-container {
 	img {
-		margin: 20px 0;
+		margin: 18px 0;
 	}
 }
 
