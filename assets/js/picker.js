@@ -15,7 +15,7 @@ window.onload = function() {
 		}
 	}
 
-	$hidePicker.onclick = function () {
+	$hide_Picker.onclick = function () {
 		$picker.style['display'] = 'none';	
 	}
 }
