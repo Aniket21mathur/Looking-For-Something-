@@ -7,7 +7,7 @@
 #texture-picker {
     position: fixed;
     {%- if site.texture.showNav -%}
-        top: 120px;
+        top: 60px;
         right: 5vw;
     {%- else -%}
         top: 20px;
