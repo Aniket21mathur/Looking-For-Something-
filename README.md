@@ -117,3 +117,5 @@ If you want to read more about JSON Web Tokens and even start using them to perf
 Lol..Lol..Lol.. wasted a hell lot of your time noob.
 Okay.... Let me give you a hint
 find something like flag{} :) :)
+
+True that Mr. Ritick
