@@ -53,7 +53,6 @@ An example payload could be:
   "name": "John Doe",
   "admin": true
 }
-The payload is then Base64Url encoded to form the second part of the JSON Web Token.
 
 Do note that for signed tokens this information, though protected against tampering, is readable by anyone. Do not put secret information in the payload or header elements of a JWT unless it is encrypted.
 
